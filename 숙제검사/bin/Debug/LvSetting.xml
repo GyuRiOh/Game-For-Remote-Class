@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<levelCut>
+  <levelCut level="1">
+    <cut>0</cut>
+  </levelCut>
+  <levelCut level="2">
+    <cut>10</cut>
+  </levelCut>
+  <levelCut level="3">
+    <cut>35</cut>
+  </levelCut>
+  <levelCut level="4">
+    <cut>50</cut>
+  </levelCut>
+  <levelCut level="5">
+    <cut>80</cut>
+  </levelCut>
+  <levelCut level="6">
+    <cut>100</cut>
+  </levelCut>
+  <levelCut level="7">
+    <cut>130</cut>
+  </levelCut>
+  <levelCut level="8">
+    <cut>190</cut>
+  </levelCut>
+  <levelCut level="9">
+    <cut>280</cut>
+  </levelCut>
+</levelCut>
